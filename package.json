@@ -1,0 +1,26 @@
+{
+  "name": "seccion-66-gatsby-proyecto-bienes-raices",
+  "version": "1.0.0",
+  "private": true,
+  "description": "seccion-66-gatsby-proyecto-bienes-raices",
+  "author": "Carlos Ramos",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.19.2",
+    "gatsby-plugin-image": "^2.19.0",
+    "gatsby-plugin-sharp": "^4.19.0",
+    "gatsby-source-filesystem": "^4.19.0",
+    "gatsby-transformer-sharp": "^4.19.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
